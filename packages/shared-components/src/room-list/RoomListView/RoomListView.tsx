@@ -15,7 +15,7 @@ import { VirtualizedRoomListView, type RoomListViewState } from "../VirtualizedR
 import {
     type Room,
     type RoomListItemViewModel,
-} from "../VirtualizedRoomListView/RoomListItemAccessibilityWrapper/RoomListItemView";
+} from "../VirtualizedRoomListView/RoomListItemWrapper/RoomListItemView";
 import { type RoomListSectionHeaderViewModel } from "../VirtualizedRoomListView/RoomListSectionHeaderView";
 import { type ToastType, RoomListToast } from "./RoomListToast";
 import styles from "./RoomListView.module.css";
